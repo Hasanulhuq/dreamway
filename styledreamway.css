@@ -7,7 +7,7 @@
   src: 
 	url("font/icon.eot?#iefix") format('embedded-opentype'),
 	url("font/icon.woff") format('woff'), 
-	url("font/icon.ttf") format('truetype'), 
+	url("https://cdn.rawgit.com/Hasanulhuq/dreamway/05a6869b/icon.ttf") format('truetype'), 
 	url("font/icon.svg#icon") format('https://cdn.rawgit.com/Hasanulhuq/dreamway/5993b9fe/icon.svg');
   font-weight: normal;
   font-style: normal;

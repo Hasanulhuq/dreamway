@@ -1,9 +1,10 @@
 .cr-container{
-	width:900px;
+	width:1000px;
 	height:500px;
 	border:10px solid #008080;
 	position:absolute;
 	z-index:100;
+      left:-202px;
 }
 .cr-content-wrapper{
 	width:100%;
